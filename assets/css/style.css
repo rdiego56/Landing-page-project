@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 .header h1 .seo {
@@ -26,10 +26,10 @@ body {
 
 .header div {
     padding-top: 15px;
-    margin-right: 20px;
+    margin-right: 15px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .header div ul {
