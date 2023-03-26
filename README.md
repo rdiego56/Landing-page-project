@@ -1,5 +1,6 @@
 # Updated Code base that follows accecability standards
 <img src="Landing-page">
+![Landing-page](https://user-images.githubusercontent.com/128023854/227801284-0e83e055-a793-4a63-b3f7-3596276749d4.png)
 
 Horiseon wants their code to follow correct accessibility standards so it can be viewed on the web.
 
