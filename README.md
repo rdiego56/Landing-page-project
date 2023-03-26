@@ -17,4 +17,4 @@ I verifed that the heading attributes follows a correct order and just had to mo
 [GitHubRepo](https://github.com/rdiego56/Landing-page-project)
 
 # Live website 
-[LiveWebPage] 
+[LiveWebPage](https://rdiego56.github.io/Landing-page-project/) 
